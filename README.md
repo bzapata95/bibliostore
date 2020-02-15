@@ -1,21 +1,42 @@
-# Fotos
+<h1 align="center">
+<br>
+BIBLIOSTORE
+</h1>
 
-## Inicio de sesión
+<p align="center">Book manager contains: book list, book loan, book details and student registration</p>
 
-<img src=".github/1.png">
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
 
-## Listado de libros
+[//]: # "Add your gifs/images here:"
 
-<img src=".github/2.png">
+<div>
+  <img src="./.github/bibliostore.gif" alt="demo" height="425">
+</div>
 
-## Prestamos de libros
+<hr />
 
-<img src=".github/3.png">
+## Features
 
-## Detalles de libro
+[//]: # "Add the features of your project here:"
 
-<img src=".github/4.png">
+This app features all the latest tools and practices in web development!
 
-## Suscriptores / alumnos
+- ⚛️ **React Js** — A JavaScript library for building user interfaces
+- 📄 **Firebase** — A cross-platform and open-source document-oriented database
+- ♻️ **Redux** — A state handler
 
-<img src=".github/5.png">
+## Getting started
+
+**Getting started with the frontend app**
+
+1. Move yourself to the frontend folder: `cd frontend`
+2. Copy `.env.example` and change values in the file data of `firebase`
+3. Run `yarn start` to start the web application
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
